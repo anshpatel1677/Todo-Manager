@@ -45,7 +45,7 @@ Install dependencies:
 bash
 Copy code
 npm install
-# or
+# Installation
 yarn install
 Development
 Run the development server with Vite:
@@ -53,7 +53,7 @@ Run the development server with Vite:
 bash
 Copy code
 npm run dev
-# or
+# Development
 yarn dev
 Access the app in your browser at http://localhost:5173 (default port).
 
@@ -63,7 +63,7 @@ To create a production-ready build:
 bash
 Copy code
 npm run build
-# or
+# Build
 yarn build
 The build artifacts will be generated in the dist folder.
 
@@ -73,9 +73,9 @@ To preview the production build locally:
 bash
 Copy code
 npm run preview
-# or
+# 🖥️ Technologies Used
 yarn preview
-🖥️ Technologies Used
+
 React: A library for building interactive user interfaces.
 Vite: A next-generation frontend tooling platform.
 Tailwind CSS: Utility-first CSS framework for rapid UI development.
